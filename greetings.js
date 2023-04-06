@@ -8,7 +8,7 @@ const funny = [
   " 你好！你会跳舞吗？",
   " Здравствуйте! Как поживаете?",
   "Olá! Como vai você? ",
-  "Hej! Har du hört den om giraffen som gick in på en bar?",
+  "Hej! Har du hört den om giraffen som gick in på en bar?!",
 ];
 const sweet = [
   "Lovebug",
